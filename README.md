@@ -1,7 +1,7 @@
 # jrj_threading
 
 2019-05-03
-    运行：python3 jrj_mysql_pro.py -h 帮助
+    运行：python3 jrj_threading.py -h 帮助
     
                 -t 线程数量
                 
