@@ -24,8 +24,8 @@ TABLE     = "htsec_registered"
 COLUMN    = "mobile"
 
 # 页面设置
-STARTPAGE = 1000     # 开始页面
-ENDPAGE   = 1001     # 结束页面
+STARTPAGE = 6001     # 开始页面
+ENDPAGE   = 6100     # 结束页面
 PAGESIZE  = 10000  # 分页读取行数
 
 # 线程设置
